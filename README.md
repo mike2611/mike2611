@@ -1,4 +1,6 @@
-### Hi there 👋
+<p align="center" width="100%">
+  <img src="./images/animation.gif"/>
+</p>
 
 <!--
 **mike2611/mike2611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mike2611&count_private=true&theme=great-gatsby)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mike2611&count_private=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
-
-
+<p align="center" width="100%">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=mike2611&count_private=true&theme=great-gatsby" width="48%"/></a> 
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mike2611&layout=compact&theme=great-gatsby" width="40%"/></a> 
+</p>
