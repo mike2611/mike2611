@@ -16,10 +16,10 @@
 
 ### Contact me:
 
-[<img align="center" alt="MikePuentes Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
 [<img align="center" alt="MikePuentes LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+📫 miguel.puentesmt@uanl.edu.mx 
 
-[twitter]: https://twitter.com/MiguelP2611
 [linkedin]: https://www.linkedin.com/in/miguel-puentes-mata-90a562139/
+
 
 
