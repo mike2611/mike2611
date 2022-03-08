@@ -13,13 +13,16 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mike2611&layout=compact&theme=great-gatsby" width="40%"/>
   </a> 
 </p>
+<p align="center">
+   <a href="https://www.codewars.com/users/Miki2611/badges" target="_blank"><img src="https://www.codewars.com/users/Miki2611/badges/micro"/></a>
+</p>
 
 ### Contact me:
 
 [<img align="center" alt="MikePuentes LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 📫 miguel.puentesmt@uanl.edu.mx 
-
 [linkedin]: https://www.linkedin.com/in/miguel-puentes-mata/
+
 
 
 
