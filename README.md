@@ -20,7 +20,7 @@
 ### Contact-me:
 
 [<img align="center" alt="MikePuentes LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />](https://www.linkedin.com/in/miguel-puentes-mata/)
-📫 miguel.puentesmt@uanl.edu.mx 
+📫 miguel.puentesmt@uanl.edu.mx mpuentes2611@gmail.com
 
 
 
